@@ -1,5 +1,5 @@
 This project analyzes investment preferences using a supervised machine learning. The dataset, sourced from Kaggle, was collected via Google Forms during the COVID-19 lockdown. It includes demographic details, investment choices, ranking preferences, and decision-making factors to predict whether an individual invests in financial avenues.
-From this dataset i understood there are many categorical comumns, and if we assgn the Investment as the target column, the remaining will be the independent column; from this i understood this is a supervised machine learning, classification.
+From this dataset i understood there are many categorical columns, and if we assign the Investment as the target column, the remaining will be the independent column; from this i understood this is a supervised machine learning, classification.
 There are 7 Investment choices.
 They have ranked the investments according to their preferences or priority from 1 to 7 by which I assumed 1 is their first preference and the last number 7 is their last preference. 
 
